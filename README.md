@@ -1,4 +1,4 @@
-This repository holds code for a distillation streamlit app that calculate's the number of theoretical stages ina distillation column using the McCabe Thiele method. As well as plotting the equilibrium curve. 
-This repository also has code to run a liquid-liquid extraction streamlit app that calculates the equilibrium compositions of two immiscible phases, as well as plotting the distribution curve.
-Along with code to run a reactor streamlit app that will calculate the volume for a Continuous Stirred Tank Reactor and a Plug Flow Reactor. As well as plotting the conversion profile for both reactors as a means to provide a visual comparison.
-Finally, this repository contains python code for an OTR streamlit app that iteratively calculates dissolved oxygen (DO) concentration levels and plots the concentration over time.
+Distillation Column app: Utilizing the McCabe-Thiele method to estimate the number of theoretical stages required for a given separation and visualizing the equilibrium curve.
+Liquid-Liquid Extraction App: Predicting equilibrium compositions of two immiscible phases and providing a graphical representation of the distribution curve.
+Reactor Engineering app: Determining reactor volumes for Continuous Stirred Tank Reactors (CSTRs) and Plug Flow Reactors (PFRs), as well as comparing their performance through conversion profiles.
+Oxygen Transfer Rate Modeling app: Iteratively calculating dissolved oxygen (DO) concentration in a liquid phase and visualizing the concentration change over time.
